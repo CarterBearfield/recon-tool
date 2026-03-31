@@ -61,7 +61,7 @@ def print_banner():
  |  _ <  __/ (_| (_) | | | | | | (_) | (_) | |
  |_| \_\___|\___\___/|_| |_| |_|\___/ \___/|_|
 
-  Network Reconnaissance Tool  |  github.com/yourhandle
+  Network Reconnaissance Tool  |  github.com/CarterBearfield
     """
     print("\033[92m" + banner + "\033[0m")
 
